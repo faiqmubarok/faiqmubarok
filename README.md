@@ -3,7 +3,9 @@
   A passionate fullstack developer who enjoys building things that live on the web.
 </p>
 
+<br/>
 ---
+<br/>
 
 ## 💫 About Me
 
