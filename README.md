@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Faiq</h2>
+<h1 align="center">Hi there 👋, I'm Faiq</h1>
 <p align="center">
   A passionate fullstack developer who enjoys building things that live on the web.
 </p>
