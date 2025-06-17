@@ -1,8 +1,8 @@
-<p align="center"><strong style="font-size:32px;">👋 Hi there, I'm Faiq</strong></p>
-
+<h2 align="center">Hi there 👋, I'm Faiq</h2>
 <p align="center">
   A passionate fullstack developer who enjoys building things that live on the web.
 </p>
+
 
 
 ---
