@@ -3,8 +3,6 @@
   A passionate fullstack developer who enjoys building things that live on the web.
 </p>
 
-
-
 ---
 
 ## 💫 About Me
@@ -60,11 +58,10 @@ I enjoy collaborating with others, learning new perspectives, and continuously r
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faiqmubarok&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiqmubarok&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=faiqmubarok&theme=tokyonight&hide_border=false" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqmubarok&layout=compact&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqmubarok&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&cache_seconds=60&exclude_repo=html-landing,template-static,portfolio-html" />
 </p>
-
 
 ---
 
