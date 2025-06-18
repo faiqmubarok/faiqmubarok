@@ -62,8 +62,9 @@ I enjoy collaborating with others, learning new perspectives, and continuously r
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiqmubarok&theme=tokyonight&hide_border=false" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqmubarok&layout=compact&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiqmubarok&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&cache_seconds=60&exclude_repo=html-landing,template-static,portfolio-html" />
 </p>
+
 
 ---
 
